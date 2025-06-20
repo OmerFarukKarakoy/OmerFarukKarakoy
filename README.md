@@ -71,4 +71,5 @@ I am Ömer Faruk, a Computer Science student focusing on data analysis and machi
 
 ---
 
-> 🚀 “The best way to predict the future is to invent it.” – Alan Kay
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Scroll+to+explore." alt="Typing SVG" />
+
