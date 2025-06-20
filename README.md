@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate **Data Science** and **Artificial Intelligence** enthusiast, currently focusing on building intelligent systems that make real-world impact. I love analyzing data, uncovering insights, and developing machine learning models that solve real problems.
+I am Ömer Faruk, a Computer Science student focusing on data analysis and machine learning. I have experience in Python, SQL, and libraries like Pandas, NumPy, OpenCV, and TensorFlow, which I use for data processing and building AI models. I have developed mobile applications using Flutter and React Native. My goal is to specialize in data science and computer vision to develop innovative AI solutions.
 
 #### 🌱 Currently learning and working on:
 - 📊 Data Science & Analytics
@@ -42,16 +42,16 @@ I'm a passionate **Data Science** and **Artificial Intelligence** enthusiast, cu
 ### 🚀 Featured Projects
 
 - **🎬 [Project A: SineStreet](https://github.com/OmerFarukKarakoy/SineStreet)**  
-  Film önerileri sunan, web tabanlı bir projedir. Kullanıcılar için sade bir arayüzde film bilgileri sunar. Projede ayrıca **RASA** ile geliştirilmiş bir yapay zeka destekli chatbot yer alır. Kullanıcılarla doğal dilde sohbet ederek film önerilerinde bulunur.
+  A web-based project that provides movie recommendations. It offers users a clean interface for browsing film information. The project also includes an AI-powered chatbot developed with **RASA**, which interacts with users in natural language to suggest movies.
 
 - **📊 [Project B: Crypto Trading Strategy](https://github.com/OmerFarukKarakoy/Crypto-Trading-Strategy)**  
-  RSI, EMA ve Wave gibi teknik analiz indikatörlerini kullanarak kripto piyasasında strateji geliştiren Python tabanlı bir projedir. Grafik destekli analizlerle al-sat sinyalleri üretir ve stratejilerin başarısını ölçer.
+  A Python-based project that develops trading strategies for the cryptocurrency market using technical indicators like RSI, EMA, and Wave. It generates buy/sell signals through graphical analysis and measures the success of strategies.
 
 - **🤖 [Project C: Stock Prediction Model](https://github.com/OmerFarukKarakoy/Stock-Prediction-Model)**  
-  LSTM (Long Short-Term Memory) algoritması kullanılarak finansal zaman serisi verileri üzerinden hisse senedi fiyat tahmini yapılmıştır. Derin öğrenme modeliyle geleceğe dönük öngörüler üretir. TensorFlow ve Keras altyapısı kullanılmıştır.
+  Using the LSTM (Long Short-Term Memory) algorithm, this project predicts stock prices from financial time-series data. The deep learning model generates future forecasts and was built using TensorFlow and Keras infrastructure.
 
 - **📱 [Project D: DailyEnglish](https://github.com/OmerFarukKarakoy/DailyEnglish)**  
-  **React Native** ile geliştirilen bu mobil uygulama, günlük İngilizce kelime ve örnek cümleler sunar. Kullanıcılar arasında **Firebase** tabanlı anlık mesajlaşma özelliği ile iletişim kurulabilir. İngilizce öğrenimini ve pratik yapmayı destekler.
+  This mobile application, developed with **React Native**, provides daily English vocabulary words and example sentences. It features **Firebase** -based real- time messaging between users to facilitate communication, supporting English learning and practice.
 
 
 ---
