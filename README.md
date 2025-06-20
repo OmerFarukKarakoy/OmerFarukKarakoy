@@ -73,7 +73,7 @@ I'm a software developer passionate about AI and machine learning. I enjoy build
 
 ### 📫 Let's Connect
 
--📧 **Email**: [omerfarukkarakoy@hotmail.com](mailto:omerfarukkarakoy@hotmail.com)  
+-📧 [Email](mailto:omerfarukkarakoy@hotmail.com)  
 -📷 [Instagram](https://www.instagram.com/omerfarukkarakoy/)  
 -💼 [LinkedIn](https://www.linkedin.com/in/omer-faruk-karakoy/)  
 
