@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I am Ömer Faruk, a Computer Science student focusing on data analysis and machine learning. I have experience in Python, SQL, and libraries like Pandas, NumPy, OpenCV, and TensorFlow, which I use for data processing and building AI models. I have developed mobile applications using Flutter and React Native. My goal is to specialize in data science and computer vision to develop innovative AI solutions.
+I'm a software developer passionate about AI and machine learning. I enjoy building smart solutions and continuously expanding my skill set.
 
 #### 🌱 Currently learning and working on:
 - 📊 Data Science & Analytics
