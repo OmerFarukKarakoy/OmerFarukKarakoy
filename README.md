@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ömer Faruk 👋</h1>
-<h2 align="center">
+<h3 align="center">
   A Data Science Enthusiast · Future AI Engineer · Lifelong Learner
-</h2>
+</h3>
 
 
 ---
