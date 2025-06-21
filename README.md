@@ -16,7 +16,6 @@ I'm a software developer passionate about AI and machine learning. I enjoy build
 - 📱 Mobile Apps with Flutter & React Native
 - 📈 Financial Data Analysis
 - 🧪 Research & Experimentation
-- 💬 Communicating insights effectively through storytelling and visualization
 
 ---
 
